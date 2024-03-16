@@ -1,0 +1,14 @@
+C:\Users\Alumno\source\repos\ConsoleAppHuallpa\ConsoleAppHuallpa\obj\Debug\net7.0\ConsoleAppHuallpa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumno\source\repos\ConsoleAppHuallpa\ConsoleAppHuallpa\obj\Debug\net7.0\ConsoleAppHuallpa.AssemblyInfoInputs.cache
+C:\Users\Alumno\source\repos\ConsoleAppHuallpa\ConsoleAppHuallpa\obj\Debug\net7.0\ConsoleAppHuallpa.AssemblyInfo.cs
+C:\Users\Alumno\source\repos\ConsoleAppHuallpa\ConsoleAppHuallpa\obj\Debug\net7.0\ConsoleAppHuallpa.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\source\repos\ConsoleAppHuallpa\ConsoleAppHuallpa\bin\Debug\net7.0\ConsoleAppHuallpa.exe
+C:\Users\Alumno\source\repos\ConsoleAppHuallpa\ConsoleAppHuallpa\bin\Debug\net7.0\ConsoleAppHuallpa.deps.json
+C:\Users\Alumno\source\repos\ConsoleAppHuallpa\ConsoleAppHuallpa\bin\Debug\net7.0\ConsoleAppHuallpa.runtimeconfig.json
+C:\Users\Alumno\source\repos\ConsoleAppHuallpa\ConsoleAppHuallpa\bin\Debug\net7.0\ConsoleAppHuallpa.dll
+C:\Users\Alumno\source\repos\ConsoleAppHuallpa\ConsoleAppHuallpa\bin\Debug\net7.0\ConsoleAppHuallpa.pdb
+C:\Users\Alumno\source\repos\ConsoleAppHuallpa\ConsoleAppHuallpa\obj\Debug\net7.0\ConsoleAppHuallpa.dll
+C:\Users\Alumno\source\repos\ConsoleAppHuallpa\ConsoleAppHuallpa\obj\Debug\net7.0\refint\ConsoleAppHuallpa.dll
+C:\Users\Alumno\source\repos\ConsoleAppHuallpa\ConsoleAppHuallpa\obj\Debug\net7.0\ConsoleAppHuallpa.pdb
+C:\Users\Alumno\source\repos\ConsoleAppHuallpa\ConsoleAppHuallpa\obj\Debug\net7.0\ConsoleAppHuallpa.genruntimeconfig.cache
+C:\Users\Alumno\source\repos\ConsoleAppHuallpa\ConsoleAppHuallpa\obj\Debug\net7.0\ref\ConsoleAppHuallpa.dll
